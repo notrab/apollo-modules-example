@@ -1,0 +1,13 @@
+{
+  "name": "apollo-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.2.6",
+    "graphql": "^14.0.2"
+  }
+}
